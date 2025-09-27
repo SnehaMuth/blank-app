@@ -18,7 +18,7 @@ def set_background_url(image_url):
 st.set_page_config(layout="wide")
 
 # Use any direct image URL here
-image_url = "https://images.unsplash.com/photo-1506744038136-46273834b3fb"  # Replace with your desired image URL
+image_url = "https://img.freepik.com/free-vector/cartoon-kitchen-interior-illustration_52683-65784.jpg"  # Replace with your desired image URL
 set_background_url(image_url)
 
 # Add some test content
